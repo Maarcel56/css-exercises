@@ -1,0 +1,18 @@
+.odd{
+    background-color: rgb(201, 93, 111);
+}
+
+.odd.add{
+    font-size: 24px;
+}
+
+#second{
+    font-size: 36px;
+    color:blue;
+}
+
+#four{
+    background-color:lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
